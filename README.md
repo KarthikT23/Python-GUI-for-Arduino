@@ -8,6 +8,8 @@ Usage of Python GUI to control Arduino and its sensors, actuators
 5) LEDs
 6) Pushbuttons
 7) Resistors: 10k, 330R
+8) Potentiometer
+9) Servo Motor
 
 # Software installations
 1) Arduino IDE: https://www.arduino.cc/en/software
