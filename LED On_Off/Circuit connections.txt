@@ -1,0 +1,6 @@
+Circuit connections:
+1) LED longer leg to one end of 330R resistor. 
+2) The other end of the resistor goes to digital pin 3 of Arduino Uno.
+3) Connect one end of pushbutton to digital pin 2. 
+4) Connect the same end to one end of the 10k resisor. 
+5) Connect the other end of the 10k resistor to ground.
