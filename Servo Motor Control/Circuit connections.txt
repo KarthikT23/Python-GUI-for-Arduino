@@ -1,0 +1,8 @@
+Circuit connections:
+1) Blue LED [System OK LED] longer leg to one end of 330R resistor. 
+2) The other end of the resistor goes to digital pin 3 of Arduino Uno.
+3) Red LED [Alarm LED] longer leg to one end of 330R resistor. 
+4) The other end of the resistor goes to digital pin 5 of Arduino Uno.
+5) Orange wire of servo motor goes to digital pin 8, red wire goes to 5V, brown wire goes to GND.
+
+
